@@ -1,4 +1,4 @@
-👋 Hi there! I'm harsh
+# Hi there! I'm harsh
 🚀 AI & Data Science Enthusiast | Front end Developer
 
 I am a BTech student specializing in Artificial Intelligence and Data Science, passionate about building intelligent applications and exploring innovative technologies in AI & Web Development.
