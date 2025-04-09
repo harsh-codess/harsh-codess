@@ -13,10 +13,10 @@
 
 - 💬 Ask me about **python , HTML5 , CSS**
 
-- 📫 How to reach me **harshgidwani2007@gmail.com** [personal email]
+- 📫 How to reach me **harshgidwani2007@gmail.com** [personal
 
- check out my portfolio
-- https://harshgidwani.netlify.app/
+- check out my portfolio
+  **https://harshgidwani.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
