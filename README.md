@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **harshgidwani2007@gmail.com** [personal email]
 
-- check out my portfolio
+ check out my portfolio
 - https://harshgidwani.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
