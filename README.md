@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm harsh</h1>
+<h1 align="center">Hi, I'm hars</h1>
 <h3 align="center">🚀 AI & Data Science Enthusiast | Front end Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-codess&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-codess" /> </p>
