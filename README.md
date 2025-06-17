@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AI & NLP PROJECTS**
 
-- 🌱 I’m currently learning **Deep Learning, Express.js, and Advanced NLP 📚**
+- 🌱 I’m currently learning **Deep Learning, DSA, and Advanced NLP 📚**
 
 - 👯 I’m looking to collaborate on **web application & AI projects**
 
