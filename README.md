@@ -16,7 +16,7 @@
 - 📫 How to reach me **harshgidwani2007@gmail.com** [personal]
 
 - check out my portfolio
-  **harshcodess.tech**
+  **https://harshcodess.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
