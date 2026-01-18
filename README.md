@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on DSA<br>👯 I’m looking to collaborate on devlopment projects<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning DSA :sob:<br>💬 Ask me about ML, AI
 
-
+wesbite - harshcodess.tech
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh.yvl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-gidwani-497a63243/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@harshgidwani2007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshgidwani2007@gmail.com) 
 
@@ -14,4 +14,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harsh-codess&icon=0&color=0)](https://visitcount.itsvg.in)
-[EXPLORE MY JOURNEY ACROSS THE HORIZON THROUGH MY WEBSITE](harshcodess.tech)
