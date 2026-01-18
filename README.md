@@ -1,7 +1,9 @@
+
+<img width="2544" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/65d938e8-6a72-47ff-84cb-7a56c9813116" />
+
 # 💫 About Me:
 🔭 I’m currently working on DSA<br>👯 I’m looking to collaborate on devlopment projects<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning DSA :sob:<br>💬 Ask me about ML, AI
 
-wesbite - harshcodess.tech
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh.yvl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-gidwani-497a63243/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@harshgidwani2007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshgidwani2007@gmail.com) 
 
