@@ -1,7 +1,7 @@
 
 <img width="2544" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/65d938e8-6a72-47ff-84cb-7a56c9813116" />
 
-# 💫 About Me: 
+#  About Me: 
 🔭 I’m currently working on DSA<br>👯 I’m looking to collaborate on devlopment projects<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning DSA :sob:<br>💬 Ask me about ML, AI
 
 ## 🌐 Socials:
