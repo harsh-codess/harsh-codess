@@ -1,4 +1,6 @@
-<img width="2544" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/65d938e8-6a72-47ff-84cb-7a56c9813116" />
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/harsh-codess/harsh-codess/main/file_00000000b400720ba27484d5a02b92f7.png" />
+</p>
 
 <h1 align="center">Hey, I'm Harsh Gidwani </h1>
 
