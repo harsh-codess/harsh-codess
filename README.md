@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/harsh-codess/harsh-codess/main/file_00000000b400720ba27484d5a02b92f7.png" />
+  <img width="100%" src="https://raw.githubusercontent.com/harsh-codess/harsh-codess/main/file_000000005d287206a281fe205173140d.png" alt="Harsh Gidwani Banner"/>
 </p>
 
 <h1 align="center">Hey, I'm Harsh Gidwani </h1>
