@@ -1,7 +1,6 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/harsh-codess/harsh-codess/main/github-banner.png" alt="Harsh Gidwani Banner"/>
+  <img width="100%" src="https://raw.githubusercontent.com/harsh-codess/harsh-codess/main/github-banner-final-2.png" alt="Harsh Gidwani Banner"/>
 </p>
-
 <h1 align="center">Hey, I'm Harsh Gidwani </h1>
 
 <p align="center">
