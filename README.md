@@ -113,20 +113,7 @@ Multi-agent system that converts research papers into market-ready outputs — T
 
 ---
 
-## ✍️ Latest on Medium
 
-<div align="center">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@harshgidwani2007/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@harshgidwani2007/0" alt="Medium post 1" />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@harshgidwani2007/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@harshgidwani2007/1" alt="Medium post 2" />
-  </a>
-</div>
-
-
-
----
 
 <p align="center">
   <i>Open to internships and collaborations in AI/ML, GenAI, and full-stack engineering.</i><br/>
