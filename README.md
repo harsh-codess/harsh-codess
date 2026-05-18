@@ -29,6 +29,11 @@ I build AI systems that solve real problems — from multi-agent research pipeli
 
 ---
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
+
 ## 🚀 Featured Projects
 
 ### 🌱 [GrowAI](https://harshcodess.tech) — AI Marketing Automation SaaS
@@ -45,74 +50,59 @@ Multi-agent system that converts research papers into market-ready outputs — T
 
 ---
 
-## 🧩 What I Work With
+<div align="center">
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="320">
 
-###  AI & LLMs
-**Frameworks & Models**
-- LangChain · LlamaIndex · RAG pipelines
-- Gemini 2.0 Flash · Vertex AI · Groq API
-- Prompt engineering · Agentic AI systems
-
-**Vector & Memory**
-- Qdrant · Embeddings (OLLAMA)
-- Compounding intelligence loops
-- Multi-agent orchestration
+### AI & LLMs
+- LangChain · LlamaIndex · RAG
+- Gemini 2.0 Flash · Vertex AI
+- Groq API · Prompt Engineering
+- Qdrant · OLLAMA Embeddings
+- Multi-agent AI systems
 
     </td>
-    <td valign="top" width="50%">
 
-###  ML & Data Science
-**Core ML**
-- TensorFlow · PyTorch · scikit-learn
-- NLP · BERT · BART/T5 · LSTM
-- Sentiment analysis · Attention visualization
+    <td valign="top" width="320">
 
-**Data**
-- NumPy · Pandas · Matplotlib
-- Feature engineering · Model evaluation
-- Tableau · Data preprocessing
+### ML & Data Science
+- TensorFlow · PyTorch
+- scikit-learn · NLP
+- BERT · BART/T5 · LSTM
+- NumPy · Pandas
+- Tableau · Matplotlib
 
     </td>
   </tr>
+
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="320">
 
-###  Engineering & Infrastructure
-**Languages**
+### Engineering
 - Python · C++ · JavaScript
-
-**Web & Backend**
-- Next.js 15 · Streamlit · Vercel
-- BullMQ · Redis · Cloudinary
-
-**Databases & ORM**
-- PostgreSQL · Supabase · SQLite
+- Next.js 15 · Streamlit
+- PostgreSQL · Supabase
 - Prisma · Firebase
+- Redis · BullMQ
 
     </td>
-    <td valign="top" width="50%">
 
-###  Products
-**Shipped Products**
-- End-to-end SaaS (GrowAI)
-- Multi-agent research pipelines (Lemma)
-- Hackathon builds under 24–48 hrs
+    <td valign="top" width="320">
 
-**Strategy**
-- AI product thinking · MVP to market
-- Technical writing on Medium
-- LinkedIn personal branding for tech
+### Products
+- GrowAI SaaS
+- Lemma research pipelines
+- Hackathon builds
+- AI product strategy
+- Technical writing & branding
 
     </td>
   </tr>
 </table>
 
----
-
+</div>
 
 
 <p align="center">
