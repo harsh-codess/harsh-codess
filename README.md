@@ -98,7 +98,7 @@ Multi-agent system that converts research papers into market-ready outputs — T
 
 ###  Products
 **Shipped Products**
-- End-to-end SaaS (GrowAI, DietCode)
+- End-to-end SaaS (GrowAI)
 - Multi-agent research pipelines (Lemma)
 - Hackathon builds under 24–48 hrs
 
