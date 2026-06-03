@@ -1,7 +1,7 @@
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/harsh-codess/harsh-codess/main/banner-finaled.png" alt="Harsh Gidwani Banner"/>
 </p>
-<h1 align="center">Hey, I'm Harsh Gidwani </h1>
+<h1 align="center">Hey, I'm Harsh Gidwan </h1>
 
 <p align="center">
   <b>AI/ML  · Generative AI · UI/UX · 2× Hackathon Winner · Design </b><br/>
