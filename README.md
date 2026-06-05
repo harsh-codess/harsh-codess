@@ -37,7 +37,7 @@ I build AI systems that solve real problems — from multi-agent research pipeli
 
 ## 🚀 Featured Projects
 
-### 🌱 [GrowAI](https://https://harshcodess.tech/showcase) — AI Marketing Automation SaaS
+### 🌱 [GrowAI](https://harshcodess.tech/showcase) — AI Marketing Automation SaaS
 End-to-end marketing automation that generates videos, emails, and social content from a single Excel upload. Fully built, beyond MVP.
 
 `Generative AI` `Automation` `Full-Stack` `SaaS`
