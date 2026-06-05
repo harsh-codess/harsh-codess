@@ -37,14 +37,14 @@ I build AI systems that solve real problems — from multi-agent research pipeli
 
 ## 🚀 Featured Projects
 
-### 🌱 [GrowAI](https://harshcodess.tech) — AI Marketing Automation SaaS
+### 🌱 [GrowAI](https://https://harshcodess.tech/showcase) — AI Marketing Automation SaaS
 End-to-end marketing automation that generates videos, emails, and social content from a single Excel upload. Fully built, beyond MVP.
 
 `Generative AI` `Automation` `Full-Stack` `SaaS`
 
 ---
 
-### 📄 [Lemma](https://harshcodess.tech) — Research-to-Commercialization AI Agent
+### 📄 [Lemma](https://harshcodess.tech/showcase) — Research-to-Commercialization AI Agent
 Multi-agent system that converts research papers into market-ready outputs — TRL/IRL scoring, market intelligence reports, and investor pitch decks. Built for PhD researchers and Technology Transfer Offices.
 
 `Multi-Agent AI` `LLMs` `RAG` `Market Intelligence`
