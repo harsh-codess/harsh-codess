@@ -6,7 +6,7 @@
 <p align="center">
   <b>AI/ML  · Generative AI · UI/UX · 2× Hackathon Winner · Design </b><br/>
   BTech, Artificial Intelligence & Data Science @ MIT-WPU, Pune<br/>
-  Building AI products that ship. Currently @ a startup internship.
+  Building AI products that ship. 
 </p>
 
 <p align="center">
