@@ -23,7 +23,7 @@
 
 I build AI systems that solve real problems — from multi-agent research pipelines to full-stack GenAI SaaS products. My work sits at the intersection of **LLMs, RAG, and production engineering**.
 
-- 🏆 **2× Hackathon Winner** (won two in a single month)
+- 🏆 **3× Hackathon Winner** 
 - 🎓 BTech in AI & Data Science @ **MIT-WPU** (transitioning from Diploma, 2025)
 - 🚀 Currently interning at a startup — building AI-powered products
 - ✍️ I write about AI/ML on [Medium](https://medium.com/@harshgidwani2007)
