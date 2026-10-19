@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Harsh Gidwani  </h1>
 
 <p align="center">
-  <b>AI/ML  · Generative AI · UI/UX · 2× Hackathon Winner · Design </b><br/>
+  <b>AI/ML  · Generative AI · UI/UX · 4× Hackathon Winner · Design </b><br/>
   BTech, Artificial Intelligence & Data Science @ MIT-WPU, Pune<br/>
 
 </p>
