@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="Pulled Back, Flying Farther.png" alt="Harsh Gidwani Banner"/>
+  <img width="100%" src="banner-finaled.png" alt="Harsh Gidwani Banner"/>
 </p>
 <h1 align="center">Hi, I'm Harsh Gidwani  </h1>
 
